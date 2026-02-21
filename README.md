@@ -63,15 +63,5 @@ Personal projects
 Portfolio websites
 Backend APIs
 Small to medium web applications
-📚 Learning Resources
-Official Flask Documentation
-Python Official Website
-🤝 Contributing
-Feel free to fork this repository and improve the project.
-📄 License
+
 This project is open-source and free to use.
-If you want, I can also give you:
-🔹 README for a Flask REST API project
-🔹 README for a Flask + MySQL project
-🔹 README for your portfolio project
-Tell me what type of project you are making 😊
